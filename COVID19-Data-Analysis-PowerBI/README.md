@@ -36,7 +36,7 @@ This project analyzes global COVID-19 data using Python and Power BI. It focuses
 
 ## 📸 Power BI Dashboard Preview
 
-![Dashboard Screenshot](Images/dashboard.png)
+![Dashboard Screenshot](Images/Dashboard.png)
 
 ---
 
